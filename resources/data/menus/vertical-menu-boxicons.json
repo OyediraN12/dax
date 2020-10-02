@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "navheader": "Apps",
+      "icon": ""
+    },
+    {
+      "url": "app-email",
+      "name": "Email",
+      "i18n": "Email",
+      "icon": "bx bx-envelope",
+      "slug": "email-application"
+    },
+    {
+      "url": "app-chat",
+      "name": "Chat",
+      "i18n": "Chat",
+      "icon": "bx bx-chat",
+      "slug": "chat-application"
+    },
+    {
+      "url": "app-todo",
+      "name": "Todo",
+      "i18n": "Todo",
+      "icon": "bx bx-check-circle",
+      "slug": "app-todo"
+    },
+    {
+      "url": "app-calendar",
+      "name": "Calendar",
+      "i18n": "Calendar",
+      "icon": "bx bx-calendar",
+      "slug": "app-calendar"
+    },
+    {
+      "url": "app-kanban",
+      "name": "Kanban",
+      "i18n": "Kanban",
+      "icon": "bx bx-grid-alt",
+      "slug": "app-kanban"
+    }
+
+  ]
+}
